@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+
+}
+
+.dec{
+    font-size: 26px;
+    size: 40px;
+    width: 100px;
+    height: 10px;
+    padding: 32px;
+    font-style: inherit;
+}
+
+.inc{
+    font-size: 26px;
+    size: 40px;
+    width: 100px;
+    height: 10px;
+    padding: 32px;
+    padding: bottom 32px;;
+    font-style: inherit;
+}
+
+.reset{
+    font-size: 20px;
+    size: 80px;
+    width: 150px;
+    height: 10px;
+    padding: 32px;
+    padding-bottom:32px;
+    font-style: inherit;
+}
+
+#enterno{
+    size: 80px;
+    width: 150px;
+    height: 5px;
+    padding: 26px;
+}
